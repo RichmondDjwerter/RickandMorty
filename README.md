@@ -3,10 +3,11 @@
 
 App Demo;
 
-![Screenshot_1676667225](https://user-images.githubusercontent.com/50009207/219792797-1f430706-38cb-47aa-b195-81c7d7c20a76.png)
-![Screenshot_1676667267](https://user-images.githubusercontent.com/50009207/219792816-37ece631-909b-4e63-abde-354b7a0bb235.png)
-![Screenshot_1676667250](https://user-images.githubusercontent.com/50009207/219792824-dbf51cef-3185-41dd-8eda-bc0355a1edec.png)
-![Screenshot_1676667238](https://user-images.githubusercontent.com/50009207/219792832-9570a755-69b5-481b-a8ae-6ed105aa19a1.png)
+![Screenshot_1676667225](https://user-images.githubusercontent.com/50009207/219793448-7b9924e0-c19a-4371-ad87-14a895da3c2b.png)
+![Screenshot_1676667267](https://user-images.githubusercontent.com/50009207/219793483-45a4badb-4353-462c-97bc-8a8daf848a58.png)
+![Screenshot_1676667250](https://user-images.githubusercontent.com/50009207/219793506-6b09682c-8890-4aaf-a9b6-50083b54af34.png)
+![Screenshot_1676667238](https://user-images.githubusercontent.com/50009207/219793524-b7ae6084-57d3-4185-a02f-7e51fe085141.png)
+
 
 
 Note: Application till under construction, as i do not like the detail screen. Might change it in the coming days, but apart from that everything seen in the app demo works fine!
